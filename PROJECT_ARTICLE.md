@@ -584,6 +584,20 @@ IconButton(
 
 This small feature makes the app actually useful. Users can copy the cover letter and paste it into email applications.
 
+### Visual Walkthrough
+
+| Home (CV) | Home (Job URL) |
+| --- | --- |
+| <img src="screenshots/Screenshot_1765367715.png" width="300" /> | <img src="screenshots/Screenshot_1765367801.png" width="300" /> |
+
+| Analysis - Match Score | Analysis - Details |
+| --- | --- |
+| <img src="screenshots/Screenshot_1765367820.png" width="300" /> | <img src="screenshots/Screenshot_1765367824.png" width="300" /> |
+
+| Cover Letter |
+| --- |
+| <img src="screenshots/Screenshot_1765367838.png" width="300" /> |
+
 ---
 
 ## Part 3: The Integration: Making It All Work Together

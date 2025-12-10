@@ -52,11 +52,15 @@ A full-stack mobile application that helps job seekers optimize their applicatio
 
 ## 🖼️ Screenshots
 
-*Note: Add screenshots of your app here*
-
-- Home screen with CV input and job URL
-- Analysis results with match score
-- Cover letter generation screen
+<p align="center">
+  <img src="screenshots/Screenshot_1765367715.png" width="320" alt="Home - CV Input" />
+  <img src="screenshots/Screenshot_1765367801.png" width="320" alt="Home - Job URL" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot_1765367820.png" width="320" alt="Analysis Results - Match Score" />
+  <img src="screenshots/Screenshot_1765367824.png" width="320" alt="Analysis Results - Details" />
+  <img src="screenshots/Screenshot_1765367838.png" width="320" alt="Cover Letter" />
+</p>
 
 ---
 
